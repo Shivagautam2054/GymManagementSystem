@@ -1,0 +1,30 @@
+Git Features:
+	- Multiple developers involvement (Collaboration)
+	- Version Management (Version Control System)
+
+GymManagement 1.0.0
+
+GymManagement 2.0.0 - latest codebase
+
+
+Terms:
+ -Branches: Master 	
+ -Commit
+ -Push
+ -Pull
+ -Merge
+
+
+
+Git - Github???
+
+ Git - Version Control System
+ Github - Git Service Provider
+ Gitlab
+ Bitbucket
+
+
+.gitignore -> Ignore files
+
+Steps for an existing project:
+	-Initialize the repository: git init
